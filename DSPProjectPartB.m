@@ -1,6 +1,7 @@
 %%%
 %%% DSP TERM PROJECT - SPRING 2018
 %%%         APRIL 25, 2018
+%%%            PART B
 %%%
 
 % Initialize the program
